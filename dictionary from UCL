@@ -4,7 +4,7 @@
 
 <h1>the dictionary From  UCL</h1>
 //UCL : where context formation is equivalent to context location !
- 
+// added on 23rd Nov 2014; gee time flyes. 
 <button type="button"
 onclick="  alert ('input:' +document.getElementById('textin').value ); actOn();">
 Click me to display the dictionary From:.</button><textarea id=textin >   </textarea>
